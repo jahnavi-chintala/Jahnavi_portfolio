@@ -94,7 +94,7 @@
   <div class="project">
     <h3>4. Brain Tumor Classification</h3>
     <p>Built a CNN using MRI scans to classify brain tumors into glioma, meningioma, and pituitary categories. Applied data augmentation and Grad-CAM visualizations. Achieved >95% accuracy. Optimized architecture using dropout, batch normalization, and learning rate tuning.</p>
-    <a href="Brain_tumor_classification.zip" download>Project Files</a>
+    <a href="[Brain_tumor_classification.zip](https://github.com/jahnavi-chintala/Brain-Tumor-Classification)" download>Project Files</a>
   </div>
 
   <div class="project">
