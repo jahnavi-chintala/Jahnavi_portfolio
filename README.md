@@ -111,7 +111,7 @@
 </section>
 
 <footer>
-  &copy; 2025 Jahnavi Chintala | Portfolio
+  &copy; Jahnavi Chintala | Portfolio
 </footer>
 
 </body>
